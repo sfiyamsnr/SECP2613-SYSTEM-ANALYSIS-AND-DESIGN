@@ -2,7 +2,7 @@
 
 # 🌌 System Analysis and Design (SECP2613) - Learning Portfolio & Project Reflection
 
-Welcome to my portfolio for the **System Analysis and Design (SAD)** course (Semester II, 2023/2024), under the guidance of **Dr. Aryati binti Bakri**. This repository serves as a compilation of the architectural artifacts, project management strategies, and system models developed throughout the course to bridge the gap between business requirements and technical execution.
+Welcome to my portfolio for the **System Analysis and Design (SAD)** course.
 
 ---
 
